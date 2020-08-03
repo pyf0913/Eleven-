@@ -1,0 +1,65 @@
+{
+    "results": [
+        {
+            "location": {
+                "id": "WM68Q2Z5FRTM",
+                "name": "内江",
+                "country": "CN",
+                "path": "内江,内江,四川,中国",
+                "timezone": "Asia/Shanghai",
+                "timezone_offset": "+08:00"
+            },
+            "daily": [
+                {
+                    "date": "2020-08-01",
+                    "text_day": "阴",
+                    "code_day": "9",
+                    "text_night": "阵雨",
+                    "code_night": "10",
+                    "high": "33",
+                    "low": "25",
+                    "rainfall": "0.0",
+                    "precip": "",
+                    "wind_direction": "无持续风向",
+                    "wind_direction_degree": "26",
+                    "wind_speed": "16.20",
+                    "wind_scale": "3",
+                    "humidity": "83"
+                },
+                {
+                    "date": "2020-08-02",
+                    "text_day": "阵雨",
+                    "code_day": "10",
+                    "text_night": "阵雨",
+                    "code_night": "10",
+                    "high": "33",
+                    "low": "25",
+                    "rainfall": "3.4",
+                    "precip": "",
+                    "wind_direction": "无持续风向",
+                    "wind_direction_degree": "177",
+                    "wind_speed": "16.20",
+                    "wind_scale": "3",
+                    "humidity": "80"
+                },
+                {
+                    "date": "2020-08-03",
+                    "text_day": "阵雨",
+                    "code_day": "10",
+                    "text_night": "阵雨",
+                    "code_night": "10",
+                    "high": "36",
+                    "low": "26",
+                    "rainfall": "1.9",
+                    "precip": "",
+                    "wind_direction": "无持续风向",
+                    "wind_direction_degree": "188",
+                    "wind_speed": "16.20",
+                    "wind_scale": "3",
+                    "humidity": "76"
+                }
+            ],
+            "last_update": "2020-08-01T17:17:50+08:00"
+        }
+    ]
+}
